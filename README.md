@@ -7,3 +7,8 @@
 Mi objetivo actual es aprender todo lo posible sobre desarrollo web y poner en práctica mis habilidades para poder crecer en esta área. Me apasiona aprender nuevas tecnologías y herramientas para mejorar mi trabajo, por lo que estoy constantemente buscando nuevos desafíos.
 
 Mi principal enfoque en GitHub es compartir mis proyectos, colaborar en otros y conectar con otros desarrolladores para aprender de ellos. Creo firmemente en la importancia del trabajo en equipo y siempre estoy dispuesta a ayudar a otros en lo que pueda.
+
+---
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/mafincodes)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/martinapeluso/)
