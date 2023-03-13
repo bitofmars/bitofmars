@@ -6,7 +6,7 @@
 📚 Cuento con una Certificación Profesional en Diseño Digital y Producción Audiovisual.\
 🎯 Mi objetivo actual es aprender todo lo posible sobre desarrollo web y poner en práctica mis habilidades para poder crecer en esta área.\
 🔥 Me apasiona aprender nuevas tecnologías y herramientas para mejorar mi trabajo, y por eso estoy siempre buscando nuevos desafíos.\
-🌟 Mi principal enfoque en GitHub es compartir proyectos, colaborar en otros y conectar con otros desarrolladores para aprender de ellos.\
+🌟 Mi principal enfoque en GitHub es compartir proyectos, colaborar en otros y conectar con desarrolladores para aprender de ellos.\
 📩 Puedes escribirme en cualquiera de mis redes más abajo, o revisar mi currículum. ¡Estoy abierta a feedback y sugerencias!
 
 <img alt="Kiki" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDdlMzU0MjE4M2I4ZGY1ODJkOTk3YjBlNTMyODhjNTZkYTkxMGE0YyZjdD1n/h0uYtwIV9liVy/giphy.gif" align="right"/>
