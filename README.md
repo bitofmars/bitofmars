@@ -26,7 +26,7 @@
 ## 📫 Conéctate conmigo:
 
 <a href="https://www.linkedin.com/in/martinapeluso/"><img src="https://img.shields.io/badge/-Martina%20Sofia%20Peluso-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:martinasofiapeluso@gmail.com"><img src="https://img.shields.io/badge/-martinasofiapeluso@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://facebook.com/martu.peluso"><img src="https://img.shields.io/badge/-Martu Peluso-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://instagram.com/martupeluso"><img src="https://img.shields.io/badge/-@martupeluso-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://twitter.com/mafincodes"><img src="https://img.shields.io/badge/-@mafincodes-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="mailto:martinasofiapeluso@gmail.com"><img src="https://img.shields.io/badge/-martinasofiapeluso@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
