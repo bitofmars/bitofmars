@@ -1,4 +1,4 @@
-# ¡Hola! Soy Martina 👋😊 — @bitofmars
+# ¡Hola! Soy Martina 👋😊 — @martupeluso
 
 ## 🔍 Conóceme:
 
